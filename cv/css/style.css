@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    
+    
+}
+.first-div {
+    background-color: lightcoral;
+    padding:10px
+    
+}
+
+img.absolute1{
+    position:absolute;
+    
+}
+
+img.absolute2{
+    position:absolute;
+    left:120px;
+}
+
+hr{
+    border-color: black;
+    border-style:dashed
+}
+
+h1{
+    font-family: "Tangerine", serif;
+    font-size:xx-large;
+}
+
+a{
+    color:crimson;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color:coral;
+}
+
+h3{
+    font-family: "Satisfy", serif;
+    font-size: medium;
+}
+
+a.button{
+    background-color: black;
+    
+}
+.second-div{
+    background-color: aliceblue;
+    padding:10px
+}
+
+.third-div{
+    background-color:darkseagreen;
+    padding:10px
+}
+
+
+
+div.img-language{
+    float:left;
+    padding-right: 20px;
+}
+
+div.img-Leadership{
+    float:left;
+    padding-right: 20px;
+}
+
+div.img-Skills{
+    float:left;
+    padding-right: 20px;
+}
+
+p.copyright{
+    text-align: center;
+}
+
+.third-div{
+    padding: 10px;
+    margin: 10px;
+}
+
+div.card{
+    
+    text-align: center;
+    margin:auto;
+    width:300px;
+    background-color:beige;
+    outline: auto;
+    box-shadow:inset;
+    
+}
+
+hr.a{
+    margin-top: 100px;
+}
+
+hr.b{
+    margin-top: 50px;
+}
+
+hr.c{
+    margin-top: 50px;
+}
